@@ -10,5 +10,8 @@
 
 ---
 
-## P1-L2: 01/10/2024
+## P1-L2: 01/10/2024 - 08/10/2024
 ![Captura de pantalla 2024-10-01 135820](https://github.com/user-attachments/assets/36c71370-6d83-4656-8f58-8b28e89336fa)
+![Captura de pantalla 2024-10-08 163520](https://github.com/user-attachments/assets/0b1b7cf9-6824-4612-a9c1-bdcb683c3610)
+![Captura de pantalla 2024-10-08 163536](https://github.com/user-attachments/assets/af186841-095b-4180-90b5-bb536ae9e978)
+![Captura de pantalla 2024-10-08 163548](https://github.com/user-attachments/assets/286b18c4-e0e6-404c-a2ca-308ccb2b5727)
