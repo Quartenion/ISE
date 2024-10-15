@@ -15,3 +15,12 @@
 ![Captura de pantalla 2024-10-08 163520](https://github.com/user-attachments/assets/0b1b7cf9-6824-4612-a9c1-bdcb683c3610)
 ![Captura de pantalla 2024-10-08 163536](https://github.com/user-attachments/assets/af186841-095b-4180-90b5-bb536ae9e978)
 ![Captura de pantalla 2024-10-08 163548](https://github.com/user-attachments/assets/286b18c4-e0e6-404c-a2ca-308ccb2b5727)
+
+---
+
+## P1-L3: 15/10/2024
+![Captura de pantalla 2024-10-15 165120](https://github.com/user-attachments/assets/98825fcf-3cb1-4db4-a10c-007a88f079d1)
+![Captura de pantalla 2024-10-15 165222](https://github.com/user-attachments/assets/0c9e61e6-466a-4976-a9b0-781b3cea91cc)
+![Captura de pantalla 2024-10-15 165238](https://github.com/user-attachments/assets/e8d495b2-c1df-4211-8ad5-b4e08bf60d13)
+
+
