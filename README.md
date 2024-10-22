@@ -23,4 +23,22 @@
 ![Captura de pantalla 2024-10-15 165222](https://github.com/user-attachments/assets/0c9e61e6-466a-4976-a9b0-781b3cea91cc)
 ![Captura de pantalla 2024-10-15 165238](https://github.com/user-attachments/assets/e8d495b2-c1df-4211-8ad5-b4e08bf60d13)
 
+---
+
+## P2-L1: 22/10/2024
+#UBUNTU
+![Captura de pantalla 2024-10-22 172229](https://github.com/user-attachments/assets/b475c475-a7d9-43a0-91f0-fdae733d7a41)
+![Captura de pantalla 2024-10-22 172158](https://github.com/user-attachments/assets/edf95dd1-bcee-4ed3-9356-09a1568b4436)
+![image](https://github.com/user-attachments/assets/cb3eb3b2-b65d-4edf-a8c3-90654b9a0172)
+
+#REDHAT
+
+![Captura de pantalla 2024-10-22 172825](https://github.com/user-attachments/assets/cce76069-1f0a-4cc9-ab44-8b710a5e0339)
+![Captura de pantalla 2024-10-22 172845](https://github.com/user-attachments/assets/b3b319fb-c390-46ec-92ca-bed233d2467a)
+
+
+
+
+
+
 
