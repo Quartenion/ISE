@@ -35,7 +35,7 @@ REDHAT
 ![Captura de pantalla 2024-10-22 172825](https://github.com/user-attachments/assets/cce76069-1f0a-4cc9-ab44-8b710a5e0339)
 ![Captura de pantalla 2024-10-22 172845](https://github.com/user-attachments/assets/b3b319fb-c390-46ec-92ca-bed233d2467a)
 
-## P2-L2: 29/10/2024
+## P2-L1: 29/10/2024
 UBUNTU
 ![image](https://github.com/user-attachments/assets/31e853bf-c34a-4b6c-a596-70cae7c8bd75)
 
