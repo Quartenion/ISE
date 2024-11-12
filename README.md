@@ -43,9 +43,10 @@ REDHAT
 ![image](https://github.com/user-attachments/assets/7fe1852e-1c8d-4136-a140-36cf32b6ecb6)
 ![image](https://github.com/user-attachments/assets/6e33a084-1586-4923-a766-0c0bdafee31a)
 ![image](https://github.com/user-attachments/assets/8abebb9c-7313-4c83-bd54-9b4db1168448)
+![image](https://github.com/user-attachments/assets/167c0a37-5adc-40ef-8386-1e8be049df45)
+
 
 HOST
-
 ![image](https://github.com/user-attachments/assets/906b215b-9cd6-4e8f-8bcd-0c5adc9b614a)
 ![image](https://github.com/user-attachments/assets/b15e348b-19f7-49dd-8596-5a50d22c4e01)
 ![image](https://github.com/user-attachments/assets/813545b5-6135-4c5b-9d61-63da7e3bdad9)
