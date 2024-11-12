@@ -62,6 +62,14 @@ HOST
 ![image](https://github.com/user-attachments/assets/087b52ee-d8d0-4839-af4e-b2606bafb175)
 ![image](https://github.com/user-attachments/assets/6f9f825a-a059-44d8-b1cd-1298f2b1117a)
 
+## INTRODUCCIÓN A LA GESTIÓN DE VERSIONES CON GIT TP1 & TP2
+![image](https://github.com/user-attachments/assets/51bf52ea-6b97-4d15-9d32-3a258c01a9d8)
+![image](https://github.com/user-attachments/assets/6b9036c0-8758-4c64-8eea-d88c9c4b3848)
+![image](https://github.com/user-attachments/assets/0e3e4301-11e0-4ef6-bdce-ebd89af43e8c)
+![image](https://github.com/user-attachments/assets/5b2a10c9-00d9-496a-b568-9f495d439dae)
+
+
+
 
 
 
