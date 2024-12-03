@@ -35,6 +35,8 @@ REDHAT
 ![Captura de pantalla 2024-10-22 172825](https://github.com/user-attachments/assets/cce76069-1f0a-4cc9-ab44-8b710a5e0339)
 ![Captura de pantalla 2024-10-22 172845](https://github.com/user-attachments/assets/b3b319fb-c390-46ec-92ca-bed233d2467a)
 
+---
+
 ## P2-L1: 29/10/2024
 UBUNTU
 ![image](https://github.com/user-attachments/assets/31e853bf-c34a-4b6c-a596-70cae7c8bd75)
@@ -63,15 +65,68 @@ HOST
 ![image](https://github.com/user-attachments/assets/087b52ee-d8d0-4839-af4e-b2606bafb175)
 ![image](https://github.com/user-attachments/assets/6f9f825a-a059-44d8-b1cd-1298f2b1117a)
 
+---
+
 ## INTRODUCCIÓN A LA GESTIÓN DE VERSIONES CON GIT TP1 & TP2
 ![image](https://github.com/user-attachments/assets/51bf52ea-6b97-4d15-9d32-3a258c01a9d8)
 ![image](https://github.com/user-attachments/assets/6b9036c0-8758-4c64-8eea-d88c9c4b3848)
 ![image](https://github.com/user-attachments/assets/0e3e4301-11e0-4ef6-bdce-ebd89af43e8c)
 ![image](https://github.com/user-attachments/assets/5b2a10c9-00d9-496a-b568-9f495d439dae)
 
+---
+
 ## P3: 12/11/2024
 ![image](https://github.com/user-attachments/assets/ef7d627e-e556-42b9-91dc-c9cd0c8590e5)
 ![image](https://github.com/user-attachments/assets/9d6876a7-9ef7-445d-817c-acc63cb18a0b)
+
+---
+
+## P4: 03/12/2024
+EJERCICIO #1:
+INSTALACIÓN DE PHORONIX EN UBUNTU
+![image](https://github.com/user-attachments/assets/080d0a04-a656-42e9-bda0-003855b0aa0c)
+![image](https://github.com/user-attachments/assets/27707025-ee79-4208-96ee-fc139acc19ac)
+![image](https://github.com/user-attachments/assets/539bf6f7-e8ab-4a0e-96fc-d40a55fb0cfa)
+ARRANCAR BENCHMARKS EN UBUNTU
+SUDOKUT
+![image](https://github.com/user-attachments/assets/af349231-4006-4373-951d-1b46bd5c39a9)
+![image](https://github.com/user-attachments/assets/8c6bf885-f31d-4d58-a277-ae15b0d63614)
+![image](https://github.com/user-attachments/assets/0a74839e-d5b7-410f-b5be-ba5aebe0389f)
+![image](https://github.com/user-attachments/assets/7c6c2b0c-8051-42d3-a10f-7349eaec91bf)
+ENCODE-MP3
+![image](https://github.com/user-attachments/assets/8b746f6f-49d7-4627-9d9e-daeaeaecbedd)
+![image](https://github.com/user-attachments/assets/4969280b-dcdf-4942-9459-73e303e51b6d)
+![image](https://github.com/user-attachments/assets/443450c8-1f39-4b14-be80-84fa0a057af4)
+![image](https://github.com/user-attachments/assets/2f55ab0f-46a5-4658-b318-4f2a5b78d2c6)
+![image](https://github.com/user-attachments/assets/57294af7-2074-4f19-a1e7-a4a15a3f8490)
+![image](https://github.com/user-attachments/assets/2984f8ec-fc41-40a3-a216-2c08cb43b382)
+![image](https://github.com/user-attachments/assets/9040b6ee-fd28-4326-9a5e-fce2febe18a0)
+INSTALACIÓN DE PHORONIX EN ROCKY
+![image](https://github.com/user-attachments/assets/134ee307-161a-4db9-8096-3a2c1db5451f)
+![image](https://github.com/user-attachments/assets/d3c38c67-9a50-48f1-b7aa-7f47209ee7c4)
+![image](https://github.com/user-attachments/assets/11ed90ef-fe08-4788-8bfd-c81224e47e0f)
+![image](https://github.com/user-attachments/assets/7a1d6ce1-3a28-45bc-b526-107ab656edde)
+![image](https://github.com/user-attachments/assets/ad2581f6-ed9c-40cf-83d9-6a2ab424a920)
+![image](https://github.com/user-attachments/assets/dac8c392-2cbc-499d-8c19-5f5bb801d604)
+![image](https://github.com/user-attachments/assets/dcf335f1-44de-4a54-9b27-9f5769b7eec0)
+![image](https://github.com/user-attachments/assets/28eaa2e6-0838-41f9-aefe-02bef6f77404)
+![image](https://github.com/user-attachments/assets/6ec355c1-567c-49d8-bf71-613cabefbc61)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
