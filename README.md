@@ -87,12 +87,14 @@ INSTALACIÓN DE PHORONIX EN UBUNTU
 ![image](https://github.com/user-attachments/assets/080d0a04-a656-42e9-bda0-003855b0aa0c)
 ![image](https://github.com/user-attachments/assets/27707025-ee79-4208-96ee-fc139acc19ac)
 ![image](https://github.com/user-attachments/assets/539bf6f7-e8ab-4a0e-96fc-d40a55fb0cfa)
+
 ARRANCAR BENCHMARKS EN UBUNTU
 SUDOKUT
 ![image](https://github.com/user-attachments/assets/af349231-4006-4373-951d-1b46bd5c39a9)
 ![image](https://github.com/user-attachments/assets/8c6bf885-f31d-4d58-a277-ae15b0d63614)
 ![image](https://github.com/user-attachments/assets/0a74839e-d5b7-410f-b5be-ba5aebe0389f)
 ![image](https://github.com/user-attachments/assets/7c6c2b0c-8051-42d3-a10f-7349eaec91bf)
+
 ENCODE-MP3
 ![image](https://github.com/user-attachments/assets/8b746f6f-49d7-4627-9d9e-daeaeaecbedd)
 ![image](https://github.com/user-attachments/assets/4969280b-dcdf-4942-9459-73e303e51b6d)
@@ -101,16 +103,59 @@ ENCODE-MP3
 ![image](https://github.com/user-attachments/assets/57294af7-2074-4f19-a1e7-a4a15a3f8490)
 ![image](https://github.com/user-attachments/assets/2984f8ec-fc41-40a3-a216-2c08cb43b382)
 ![image](https://github.com/user-attachments/assets/9040b6ee-fd28-4326-9a5e-fce2febe18a0)
+
 INSTALACIÓN DE PHORONIX EN ROCKY
-![image](https://github.com/user-attachments/assets/134ee307-161a-4db9-8096-3a2c1db5451f)
-![image](https://github.com/user-attachments/assets/d3c38c67-9a50-48f1-b7aa-7f47209ee7c4)
-![image](https://github.com/user-attachments/assets/11ed90ef-fe08-4788-8bfd-c81224e47e0f)
-![image](https://github.com/user-attachments/assets/7a1d6ce1-3a28-45bc-b526-107ab656edde)
-![image](https://github.com/user-attachments/assets/ad2581f6-ed9c-40cf-83d9-6a2ab424a920)
-![image](https://github.com/user-attachments/assets/dac8c392-2cbc-499d-8c19-5f5bb801d604)
-![image](https://github.com/user-attachments/assets/dcf335f1-44de-4a54-9b27-9f5769b7eec0)
-![image](https://github.com/user-attachments/assets/28eaa2e6-0838-41f9-aefe-02bef6f77404)
-![image](https://github.com/user-attachments/assets/6ec355c1-567c-49d8-bf71-613cabefbc61)
+![image](https://github.com/user-attachments/assets/11baf13b-53c2-4b3d-a2f2-ea0cd1d61df4)
+![image](https://github.com/user-attachments/assets/ac7f3b1b-1d1e-4cda-89cc-4d72c9903ae8)
+![image](https://github.com/user-attachments/assets/111045ab-fc64-4d2f-97b5-ed3e237ca3d4)
+
+ARRANCAR BENCHMARKS EN ROCKY
+SUDOKUT
+![image](https://github.com/user-attachments/assets/26d3dc94-1faf-465f-a814-272ba40df9d5)
+![image](https://github.com/user-attachments/assets/328f99b5-87b0-4a2a-9eac-ae172fd07d8d)
+![image](https://github.com/user-attachments/assets/b27f7f5f-ae69-4f3a-83c8-eddac762dd6d)
+![image](https://github.com/user-attachments/assets/6df47918-d414-44e9-bb99-5855ee42ea50)
+
+APACHE BENCHMARK
+![image](https://github.com/user-attachments/assets/05450e8e-0a58-4454-adcd-69555d872ba1)
+![image](https://github.com/user-attachments/assets/e778f9bf-8d7f-4490-9f97-4bc589b09349)
+![image](https://github.com/user-attachments/assets/f5d3b118-9a80-4a9d-81e1-8baa5277dbd6)
+![image](https://github.com/user-attachments/assets/28c34a3c-d1a1-4b0b-87b5-7b067b4bc8d2)
+![image](https://github.com/user-attachments/assets/6247a1a7-7cda-4371-9aa2-f80f087b80bd)
+![image](https://github.com/user-attachments/assets/2110bcb0-7b51-42d9-bf0b-66ecc7a19a6a)
+![image](https://github.com/user-attachments/assets/f051be40-624e-4ac6-b757-335a4f8da7c5)
+
+UBUNTU
+![image](https://github.com/user-attachments/assets/1caddb6e-44b8-4aec-b788-050e7ef68aa4)
+![image](https://github.com/user-attachments/assets/6cde8584-c505-44f1-a9db-5f3be4001435)
+![image](https://github.com/user-attachments/assets/2493f243-7662-4907-8797-04c6a4f4ed04)
+
+ROCKY
+![image](https://github.com/user-attachments/assets/ee2dcfc6-b22d-43d4-8f5c-f786e099dafc)
+![image](https://github.com/user-attachments/assets/e9c7ea17-be2e-4aab-b3af-44c4d51473e6)
+![image](https://github.com/user-attachments/assets/047cb721-36da-441e-a15c-cd8f29b32871)
+
+---
+
+EJERCICIO #2:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
