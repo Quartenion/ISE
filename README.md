@@ -138,6 +138,28 @@ ROCKY
 ---
 
 EJERCICIO #2:
+INSTALACIÓN DE JMETER:
+
+UBUNTU:
+![image](https://github.com/user-attachments/assets/ad878130-2fd3-4829-921b-143f13254be3)
+![image](https://github.com/user-attachments/assets/654dd775-7017-4f2a-a555-865c4427dc16)
+![image](https://github.com/user-attachments/assets/1ef146cc-b155-4eb6-83de-fa9ecf20e0e2)
+![image](https://github.com/user-attachments/assets/4862e46e-72d5-47df-aaf3-424611cdf612)
+![image](https://github.com/user-attachments/assets/7dea6102-4bde-4541-a4b0-58f69747d624)
+![image](https://github.com/user-attachments/assets/464471a3-1cbe-4c56-ab1e-836df8d93840)
+![image](https://github.com/user-attachments/assets/9db45cd9-29e1-4fd1-9b34-f91a9f943f35)
+![image](https://github.com/user-attachments/assets/2e1a49bf-cb98-4162-99a2-0e62f51401c2)
+![image](https://github.com/user-attachments/assets/3a47496d-8132-44a5-b71d-67c3e2efd6ec)
+
+
+
+
+
+
+
+
+
+
 
 
 
