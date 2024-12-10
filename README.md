@@ -149,7 +149,12 @@ UBUNTU:
 ![image](https://github.com/user-attachments/assets/464471a3-1cbe-4c56-ab1e-836df8d93840)
 ![image](https://github.com/user-attachments/assets/9db45cd9-29e1-4fd1-9b34-f91a9f943f35)
 ![image](https://github.com/user-attachments/assets/2e1a49bf-cb98-4162-99a2-0e62f51401c2)
-![image](https://github.com/user-attachments/assets/3a47496d-8132-44a5-b71d-67c3e2efd6ec)
+![image](https://github.com/user-attachments/assets/df993c4a-7e15-4873-873a-4ff2b56b80b0)
+![image](https://github.com/user-attachments/assets/4d0009f4-c017-47a0-bcdc-3fdb2bc017e4)
+
+HOST ANFITRIÓN:
+
+
 
 
 
